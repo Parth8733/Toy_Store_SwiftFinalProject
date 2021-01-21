@@ -1,0 +1,62 @@
+[
+    {
+      "categoryId":1,
+      "productId":1,
+      "productName":"Marvel Spider-Man Super Web Slinger",
+      "productImage":"MarvelSpider.JPEG",
+      "productPrice":16.48
+    },
+    {
+      "categoryId":1,
+      "productId":2,
+      "productName":"Star Wars Scream Saber Lightsaber",
+      "productImage":"StarWarsScream.JPEG",
+      "productPrice":19.58
+    },
+    {
+       "categoryId":1,
+       "productId":3,
+       "productName":"Power Ranger - Beasr Morphers",
+       "productImage":"PowerRangers.JPEG",
+       "productPrice":31.97
+     },
+    {
+        "categoryId":2,
+        "productId":4,
+        "productName":"Sketch & Color Art Kit",
+        "productImage":"SketchArtKit.JPEG",
+        "productPrice":27.95
+      },
+       {
+       "categoryId":2,
+       "productId":5,
+       "productName":"Cool Maker - Pottery Studio",
+       "productImage":"CoolMaker.JPEG",
+       "productPrice":39.97
+     },
+       {
+       "categoryId":2,
+       "productId":6,
+       "productName":"Kinetic Sand",
+       "productImage":"KineticSand.JPEG",
+       "productPrice":19.47
+     },
+      {
+       "categoryId":3,
+       "productId":7,
+       "productName":"Peppa Pig: George Catches a Cold",
+       "productImage":"PeppaPig.JPEG",
+       "productPrice":6.99
+     },
+       {
+       "categoryId":3,
+       "productId":8,
+       "productName":"Baby Shark: Doo Doo",
+       "productImage":"BabyShark.JPEG",
+       "productPrice":8.99
+     }
+    
+    
+    
+]
+

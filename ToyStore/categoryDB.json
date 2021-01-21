@@ -1,0 +1,38 @@
+[
+    {
+      "id":1,
+      "name":"Action Figures",
+      "image":"ActionFigures.JPEG"
+    },
+    {
+      "id":2,
+      "name":"Arts & Crafts",
+      "image":"ArtsCraft.JPEG"
+    },
+    {
+      "id":3,
+      "name":"Books",
+      "image":"Books.JPEG"
+    },
+    {
+      "id":4,
+      "name":"Building Sets & Blocks",
+      "image":"BuildingsetsBlocks.JPEG"
+    },
+    {
+      "id":5,
+      "name":"Education",
+      "image":"Education.JPEG"
+    },
+    {
+      "id":6,
+      "name":"Electronic",
+      "image":"Electronic.JPEG"
+    },
+    {
+      "id":7,
+      "name":"Games & Puzzles",
+      "image":"Games.JPEG"
+    }
+  ]
+
